@@ -4,6 +4,7 @@ body {
   align-items: center;
   height: 100vh;
   background-color: #fffffe;
+  flex-direction: column;
 }
 
 .dropdown-menu-btn {
@@ -26,4 +27,8 @@ body {
 .dropdown-menu-logo {
   width: 4rem;
   height: 4rem;
+}
+
+.dropdown-menu-items {
+  list-style-type: none;
 }
