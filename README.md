@@ -1,3 +1,3 @@
-# Template Repo
+# Dropdown Menu
 
-Boo! Nothing to see here, please move on. This is just a skeletal template repo setup for my projects.
+Just a simple project which should display a simple dropdown menu powered by JavaScript. Development in progress.
