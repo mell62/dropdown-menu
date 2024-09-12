@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fffffe;
+}
+
+.dropdown-menu-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  appearance: none;
+  background-color: transparent;
+  border: 0.15rem solid rebeccapurple;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.dropdown-menu-btn:hover {
+  background-color: #eeeeed;
+}
+
+.dropdown-menu-btn,
+.dropdown-menu-logo {
+  width: 4rem;
+  height: 4rem;
+}
