@@ -1,5 +1,5 @@
 {
-  "name": "dropdown-menu",
+  "name": "boring-dropdown-menu",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -9,7 +9,7 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mridhul <mridhul67@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^7.1.2",
