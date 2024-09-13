@@ -2,14 +2,13 @@
   "name": "boring-dropdown-menu",
   "version": "1.0.0",
   "description": "",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --watch",
     "build": "webpack"
   },
   "keywords": [],
-  "author": "Mridhul <mridhul67@gmail.com>",
+  "author": "mridhul <mridhul67@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^7.1.2",
